@@ -1,0 +1,1 @@
+Este proyecto crea un asistente documental con RAG: un chat donde le hacés preguntas a tus propios PDFs y te responde basándose en su contenido, citando de qué archivo y página sacó la información.
